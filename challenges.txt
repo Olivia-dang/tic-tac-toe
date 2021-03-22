@@ -1,0 +1,10 @@
+ 1. Pretty the board up
+ 2. Prompt who goes first
+ 3. Provide a recommendation engine
+    - both in defence and winning move
+ 4. Provide an AI!
+    - use recommendation engine to place a piece
+    - if recommendation engine has nothing, place in centre
+    - if centre occupied, place in corner
+    - otherwise, use a random place
+(5. Distributed tic-tac-toe)
